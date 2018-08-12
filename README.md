@@ -1,1 +1,1 @@
-node-assessment
+nodeAssessment
